@@ -1,5 +1,5 @@
-# ML-Projects
-Machine Learning Projects built by me.
+# ML-Project
+Machine Learning Project built by me.
 Our client is a retail banking institution. Term deposits are a major source
 of income for a bank.
 A term deposit is a cash investment held at a financial institution. Our
